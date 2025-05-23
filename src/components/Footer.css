@@ -1,0 +1,12 @@
+.footer {
+  background: #161B22;
+  padding: 2rem 0;
+  text-align: center;
+}
+.footer-content {
+  display: flex; flex-direction: column; gap: 1rem;
+}
+.social a {
+  margin: 0 0.5rem; opacity: 0.7; transition: opacity .2s;
+}
+.social a:hover { opacity: 1; }
